@@ -3723,14 +3723,14 @@ body {
 }
 .cid-qFxlnEwhsV .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #767676;
+  color: #2e2e2e;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: color .3s;
-  border: 2px solid #767676;
+  border: 2px solid #2e2e2e;
 }
 .cid-qFxlnEwhsV .nav-tabs .nav-link:hover {
   background: #149dcc;
