@@ -3691,6 +3691,7 @@ body {
 }
 .cid-qFxlnEwhsV .mbr-section-text {
   color: #767676;
+  text-align: left;
 }
 .cid-qFxlnEwhsV .mbr-section-subtitle {
   color: #767676;
@@ -3742,6 +3743,9 @@ body {
 }
 .cid-qFxlnEwhsV .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
+}
+.cid-qFxlnEwhsV H4 {
+  text-align: center;
 }
 .cid-qFLVjNZy2V {
   padding-top: 30px;
